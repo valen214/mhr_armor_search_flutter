@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/gestures.dart';
 import 'package:mhr_armor_search/pages/page_template.dart';
 
-import '../main_router.dart';
+import '../../main_router.dart';
 
 class ManualSearchPage extends StatefulWidget {
   const ManualSearchPage({

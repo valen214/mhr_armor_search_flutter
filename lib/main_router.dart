@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:mhr_armor_search/pages/manual_search.dart';
+import 'package:mhr_armor_search/pages/manual_search/manual_search.dart';
 import 'package:mhr_armor_search/pages/smart_search.dart';
 
 class MainRoutePath {
